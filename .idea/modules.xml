@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/labs.iml" filepath="$PROJECT_DIR$/labs.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo1/redis-tx-demo/redis-tx-demo.iml" filepath="$PROJECT_DIR$/demo1/redis-tx-demo/redis-tx-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo1/shiro-jwt-demo/shiro-jwt-demo.iml" filepath="$PROJECT_DIR$/demo1/shiro-jwt-demo/shiro-jwt-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-mybatis-with-redis/spring-boot-mybatis-with-redis.iml" filepath="$PROJECT_DIR$/spring-boot-mybatis-with-redis/spring-boot-mybatis-with-redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-shiro-jwt-redis/spring-boot-shiro-jwt-redis.iml" filepath="$PROJECT_DIR$/spring-boot-shiro-jwt-redis/spring-boot-shiro-jwt-redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_redis_demo/springboot_redis_demo.iml" filepath="$PROJECT_DIR$/springboot_redis_demo/springboot_redis_demo.iml" />
     </modules>

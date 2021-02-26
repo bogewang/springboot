@@ -14,6 +14,7 @@
         <module>spring-boot-shiro-jwt-redis</module>
         <module>demo2</module>
         <module>demo3</module>
+        <module>spring-boot-mybatis-with-redis</module>
     </modules>
 
 
