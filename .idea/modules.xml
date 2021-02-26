@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/demo1/demo1.iml" filepath="$PROJECT_DIR$/demo1/demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo2/demo2.iml" filepath="$PROJECT_DIR$/demo2/demo2.iml" />
       <module fileurl="file://$PROJECT_DIR$/labs.iml" filepath="$PROJECT_DIR$/labs.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo1/redis-tx-demo/redis-tx-demo.iml" filepath="$PROJECT_DIR$/demo1/redis-tx-demo/redis-tx-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo1/shiro-jwt-demo/shiro-jwt-demo.iml" filepath="$PROJECT_DIR$/demo1/shiro-jwt-demo/shiro-jwt-demo.iml" />

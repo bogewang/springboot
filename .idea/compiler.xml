@@ -8,12 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-boot-shiro-jwt-redis" />
         <module name="shiro-jwt-demo" />
+        <module name="demo2" />
         <module name="redis-tx-demo" />
         <module name="springboot_redis_demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="demo1" target="1.5" />
+      <module name="demo2" target="1.8" />
       <module name="lab-03-kafka" target="1.5" />
       <module name="labs" target="1.5" />
       <module name="redis-tx-demo" target="1.8" />

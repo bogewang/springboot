@@ -6,6 +6,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-demo/pom.xml" />
         <option value="$PROJECT_DIR$/sping-boot-shiro-jwt-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/demo2/pom.xml" />
       </list>
     </option>
   </component>
