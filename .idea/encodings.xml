@@ -8,6 +8,62 @@
     <file url="file://$PROJECT_DIR$/demo3/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-mybatis-with-redis/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-shiro-jwt-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch10/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch10/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch10_4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch10_4/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch10docker/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch10docker/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch10war/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch10war/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch11_1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch11_1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch11_3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch11_3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch12/config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch12/config/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch12/discovery/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch12/discovery/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch12/monitor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch12/monitor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch12/person/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch12/person/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch12/some/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch12/some/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch12/ui/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch12/ui/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch5_2_2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch5_2_2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch5_2_3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch6_2_3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch6_4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch6_5/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch6_5/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch7_2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch7_4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch7_6/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch7_7/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch8_2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch8_3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch8_4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch8_5/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch8_5/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch8_6_1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch8_6_1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch8_6_2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch8_6_2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch9_1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch9_1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch9_2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch9_2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch9_3_4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch9_3_4/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch9_3_5/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch9_3_5/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch9_4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/ch9_4/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/highlight_springmvc4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wyf-sourcecode/highlight_springmvc4/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_in_action_full_version/ch5_2_3/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_in_action_full_version/ch6_2_3/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_in_action_full_version/ch7_2/src/main/java" charset="UTF-8" />

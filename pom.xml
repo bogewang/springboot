@@ -17,6 +17,7 @@
         <module>spring-boot-mybatis-with-redis</module>
         <module>springboot_in_action_full_version</module>
         <module>demo-springboot-shiro-stateless</module>
+        <module>springboot-wyf-sourcecode</module>
     </modules>
 
 
