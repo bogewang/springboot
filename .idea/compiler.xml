@@ -6,8 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="redis-tx-demo" />
         <module name="shiro-jwt-demo" />
+        <module name="redis-tx-demo" />
+        <module name="springboot_redis_demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -16,6 +17,7 @@
       <module name="labs" target="1.5" />
       <module name="redis-tx-demo" target="1.8" />
       <module name="shiro-jwt-demo" target="1.8" />
+      <module name="springboot_redis_demo" target="1.6" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
