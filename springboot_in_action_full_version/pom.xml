@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>labs</artifactId>
+        <groupId>cn.bgw.springboot</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>springboot_in_action_full_version</artifactId>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>ch5_2_3</module>
+        <module>ch6_2_3</module>
+        <module>ch7_2</module>
+        <module>ch7_6</module>
+        <module>ch7_7</module>
+        <module>ch8_2</module>
+        <module>ch8_5</module>
+        <module>ch8_6_1</module>
+        <module>ch8_6_2</module>
+        <module>ch9_1</module>
+        <module>ch9_3_4</module>
+        <module>ch9_3_5</module>
+
+    </modules>
+
+</project>

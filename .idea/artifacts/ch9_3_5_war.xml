@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ch9_3_5:war">
+    <output-path>$PROJECT_DIR$/springboot_in_action_full_version/ch9_3_5/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ch9_3_5</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ch9_3_5-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ch9_3_5:war exploded" />
+    </root>
+  </artifact>
+</component>
