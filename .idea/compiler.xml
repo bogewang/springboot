@@ -16,6 +16,7 @@
     <bytecodeTargetLevel>
       <module name="demo1" target="1.5" />
       <module name="demo2" target="1.8" />
+      <module name="demo3" target="1.8" />
       <module name="lab-03-kafka" target="1.5" />
       <module name="labs" target="1.5" />
       <module name="redis-tx-demo" target="1.8" />
@@ -26,6 +27,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo3" options="-parameters" />
       <module name="shiro-jwt-demo" options="-parameters" />
       <module name="spring-boot-shiro-jwt-redis" options="-parameters" />
     </option>

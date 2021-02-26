@@ -13,6 +13,7 @@
         <module>springboot_redis_demo</module>
         <module>spring-boot-shiro-jwt-redis</module>
         <module>demo2</module>
+        <module>demo3</module>
     </modules>
 
 
