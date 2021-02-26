@@ -10,20 +10,21 @@
         <module name="ch5_2_3" />
         <module name="ch9_1" />
         <module name="ch8_6_2" />
-        <module name="redis-tx-demo" />
-        <module name="ch8_5" />
+        <module name="ch8_6_1" />
+        <module name="ch8_2" />
         <module name="ch9_3_4" />
         <module name="shiro-jwt-demo" />
-        <module name="ch8_2" />
+        <module name="ch7_2" />
         <module name="demo2" />
         <module name="springboot_redis_demo" />
-        <module name="ch8_6_1" />
+        <module name="demo-springboot-shiro-stateless" />
+        <module name="spring-boot-shiro-jwt-redis" />
         <module name="spring-boot-mybatis-with-redis" />
         <module name="ch7_7" />
         <module name="ch7_6" />
         <module name="ch9_3_5" />
-        <module name="spring-boot-shiro-jwt-redis" />
-        <module name="ch7_2" />
+        <module name="ch8_5" />
+        <module name="redis-tx-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -39,6 +40,7 @@
       <module name="ch9_1" target="1.8" />
       <module name="ch9_3_4" target="1.8" />
       <module name="ch9_3_5" target="1.8" />
+      <module name="demo-springboot-shiro-stateless" target="1.8" />
       <module name="demo1" target="1.5" />
       <module name="demo2" target="1.8" />
       <module name="demo3" target="1.8" />
